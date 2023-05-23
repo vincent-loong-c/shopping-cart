@@ -1,0 +1,38 @@
+{
+  "name": "shopping-cart",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.11.16",
+    "@mui/material": "^5.13.2",
+    "@mui/styled-engine-sc": "^5.12.0",
+    "bootstrap": "^5.2.3",
+    "install": "^0.13.0",
+    "npm": "^9.6.7",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.7.4",
+    "react-dom": "^18.2.0",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.11.2",
+    "styled-components": "^5.3.10"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@types/react-modal": "^3.16.0",
+    "@vitejs/plugin-react": "^3.0.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  }
+}
